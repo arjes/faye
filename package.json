@@ -17,7 +17,7 @@
                     ]
 
 , "repositories"  : [ { "type"    : "git"
-                      , "url"     : "git://github.com/jcoglan/faye.git"
+                      , "url"     : "https://github.com/jcoglan/faye.git"
                       }
                     ]
 }

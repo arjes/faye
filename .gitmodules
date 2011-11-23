@@ -1,6 +1,6 @@
 [submodule "vendor/js.class"]
 	path = vendor/js.class
-	url = git://github.com/jcoglan/js.class
+	url = https://github.com/jcoglan/js.class
 [submodule "vendor/em-rspec"]
 	path = vendor/em-rspec
-	url = git://github.com/jcoglan/em-rspec.git
+	url = https://github.com/jcoglan/em-rspec.git
